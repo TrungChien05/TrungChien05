@@ -67,10 +67,8 @@ I'm **Trung Chien**, an Information Technology student at **PTIT** (Posts and Te
 
 | Project | What it does | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **[REPLACE: Project 1]** | Một câu về bài toán + điểm kỹ thuật nổi bật (vd: cache bằng Redis giúp giảm thời gian phản hồi từ 400ms xuống 60ms) | Java, Spring Boot, MySQL, Redis | [Repo](https://github.com/TrungChien05/REPO_1) · [Live demo](https://REPLACE) |
-| **[REPLACE: Project 2]** | Mô tả ngắn | Java, Spring Boot, Kafka | [Repo](https://github.com/TrungChien05/REPO_2) · [Live demo](https://REPLACE) |
-| **[REPLACE: Project 3]** | Mô tả ngắn | Java, Spring Boot, Docker | [Repo](https://github.com/TrungChien05/REPO_3) · [Live demo](https://REPLACE) |
-| **[REPLACE: Project 4]** | Mô tả ngắn | ... | [Repo](https://github.com/TrungChien05/REPO_4) · [Live demo](https://REPLACE) |
+| **student-quiz** | A full-stack online quiz platform that allows students to take quizzes, submit answers, and review their results through a user-friendly interface. | Java, Spring Boot, MySQL, JavaScript | [GitHub Repo](https://github.com/TrungChien05/student-quiz-fullstack) · [Live Demo](http://104.208.88.3/) |
+
 
 <div align="center">
 
